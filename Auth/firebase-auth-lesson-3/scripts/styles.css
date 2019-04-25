@@ -1,0 +1,15 @@
+.sidetext {
+    font-size: 0.5em;
+    color: rgb(87, 87, 87);
+    padding: 5px;
+}
+
+/*--- So default navigation of the elements is not visible on refresh ---*/
+
+.logged-in {
+    display: none;
+}
+
+.logged-out {
+    display: none;
+}
